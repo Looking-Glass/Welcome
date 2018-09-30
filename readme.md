@@ -1,12 +1,15 @@
 # Hello!
 
 
-We are Looking Glass, your friendly holo-hacker crew and makers of the HoloPlayer One. We're guessing you're here to grab the HoloPlay SDK, which you can download over at our forums under releases: http://forum.lookingglassfactory.com/t/holoplay-sdk-download/179
+We're Looking Glass Factory, creators of the Looking Glass holographic display (www.lookingglassfactory.com) and HoloPlayer One interactive lightfield dev kit. We're guessing you're here to grab one of our SDKs, which you can download over at our Forum:
 
-If you're looking for the getting started guide, that can be found here: https://blog.lookingglassfactory.com/getting-started-with-the-holoplay-sdk-dc9aab12b50e
+Looking Glass Unity SDK:  http://forum.lookingglassfactory.com/t/getting-started-with-the-looking-glass-unity-sdk-aka-holoplay-sdk/824
 
-We aim to share the source for the apps we've developed in-house, so most of those can be found here: http://forum.lookingglassfactory.com/c/holoplayer-one-releases
+HoloPlayer One Unity SDK:  http://forum.lookingglassfactory.com/t/holoplay-sdk-download/179
 
-It's preferable to download the source from that releases page rather than what you find here on our GitHub page. That way you can be sure which version of the HoloPlay SDK they are running on and that the source code was from a stable build, which you can also download from the same page.
+If you're looking for the Getting Started Guide for the Looking Glass, that can be found here: 
+
+Standard Looking Glass Getting Started Guide:  https://blog.lookingglassfactory.com/the-looking-glass-a-setup-guide-1a25d1c7bbd9
+Large Looking Glass Getting Started Guide:  https://blog.lookingglassfactory.com/the-large-looking-glass-a-quick-setup-guide-113c751ca04e
 
 As always, get in touch with us if you have any questions or suggestions! info@lookingglassfactory.com
