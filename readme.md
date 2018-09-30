@@ -10,6 +10,7 @@ HoloPlayer One Unity SDK:  http://forum.lookingglassfactory.com/t/holoplay-sdk-d
 If you're looking for the Getting Started Guide for the Looking Glass, that can be found here: 
 
 Standard Looking Glass Getting Started Guide:  https://blog.lookingglassfactory.com/the-looking-glass-a-setup-guide-1a25d1c7bbd9
+
 Large Looking Glass Getting Started Guide:  https://blog.lookingglassfactory.com/the-large-looking-glass-a-quick-setup-guide-113c751ca04e
 
 As always, get in touch with us if you have any questions or suggestions! info@lookingglassfactory.com
