@@ -1,19 +1,11 @@
 # Hello!
 
 
-We're [Looking Glass Factory](https://www.lookingglassfactory.com/), creators of the Looking Glass holographic display and HoloPlayer One interactive lightfield dev kit. 
+We're [Looking Glass Factory](https://www.lookingglassfactory.com/), creators [Looking Glass devices](https://lookingglassfactory.com/product/overview) and software.
 
-We're guessing you're here to find the SDK, which you can find below:
+You can [download our software](https://lookingglassfactory.com/software) from our website, learn how to get [started with your device](https://learn.lookingglassfactory.com/), and read our [documentation](https://docs.lookingglassfactory.com/).
 
-[HoloPlay Unity SDK for the Looking Glass](https://lookingglassfactory.com/downloads/holoplay-sdk-looking-glass/)
-
-If you are looking for the apps that creators from all around the world created, you can find them in the app library:  
-
-[App Library](https://lookingglassfactory.com/creators/get-started/)
-
-The Looking Glass getting started guides are also located on the [creators portal page](https://lookingglassfactory.com/creators/get-started/)
-
-As always, get in touch with us if you have any questions or suggestions! info@lookingglassfactory.com
+As always, get in touch with us if you have any questions or suggestions! support@lookingglassfactory.com
 
 To the future!   
 [Website](https://lookingglassfactory.com/) | [Twitter](https://twitter.com/LKGGlass) | [Instagram](https://www.instagram.com/lookingglassfactory/)
